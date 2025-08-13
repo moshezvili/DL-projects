@@ -4,7 +4,7 @@ Welcome to my collection of deep learning projects and assignments! This reposit
 
 ## 🚀 Projects Overview
 
-### 1. 🏋️ Workout Fitness Classification - Clalit Home Task
+### 1. 🏋️ Workout Fitness Classification
 *Computer Vision | MediaPipe | PyTorch*
 
 A comprehensive computer vision project for classifying workout fitness activities using advanced pose estimation and deep learning techniques.
