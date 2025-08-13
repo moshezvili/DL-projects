@@ -17,7 +17,7 @@ A comprehensive computer vision project for classifying workout fitness activiti
 
 **Technologies:** `PyTorch`, `MediaPipe`, `OpenCV`, `NumPy`, `Scikit-learn`
 
-[📁 View Project](./clalit_home_task.ipynb)
+[📁 View Project](./workout.ipynb)
 
 ---
 
